@@ -1,4 +1,4 @@
-package Chapter7Exercises;
+package Chapter7Examples;
 
 import java.security.SecureRandom;
 

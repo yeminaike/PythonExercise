@@ -1,4 +1,4 @@
-package Chapter7Exercises;
+package Chapter7Examples;
 
 public class ArrayMethod {
     //
