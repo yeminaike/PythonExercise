@@ -1,4 +1,4 @@
-package Chapter7;
+package Chapter7Exercises;
 
 public class SumArrayTest {
     public static void main(String[] args) {
